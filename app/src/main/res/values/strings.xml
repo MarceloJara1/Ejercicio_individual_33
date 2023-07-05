@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercicio individual 33</string>
+    <string name="action_settings">Eliminar todo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Lista de datos</string>
+    <string name="second_fragment_label">Agregar datos</string>
+    <string name="edit_fragment_label">Editar datos</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="ingresa_un_todo">Ingresa un todo</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="guardar">Guardar</string>
+
+
+</resources>
